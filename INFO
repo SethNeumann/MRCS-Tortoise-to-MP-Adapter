@@ -1,6 +1,6 @@
 title: MRCS-Tortoise-to-MP-Adapter
-fabricated: no
-fab_date: YYYY-MM
-status: experimental
+fabricated: Yes
+fab_date: 2023-05
+status: Production
 publish: yes
-tags: MRCS, eagle]
+tags: MRCS, eagle
