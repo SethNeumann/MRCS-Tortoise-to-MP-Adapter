@@ -1,4 +1,6 @@
 
 MRCS-Tortoise-to-MP-Adapter
-Takes tortoise drive from op amp, operates relay and presents power to MP motor
+Takes tortoise drive from op amp, operates relay and presents power to MP motor.
+
+Intial version worked fine, made a 2x3 array
 
